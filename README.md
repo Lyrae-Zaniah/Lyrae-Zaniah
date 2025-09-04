@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/Lyrae-Zaniah](https://github.com/Lyrae-Zaniah">
+  <a href="https://github.com/Lyrae-Zaniah">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lyrae-Zaniah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyrae-Zaniah&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
