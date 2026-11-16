@@ -1,4 +1,4 @@
-<!-- Banner animado com texto digitando — troque as frases em "lines=" (separe com ;) --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+a+Lyrae+%F0%9F%91%8B;Estudante+de+programa%C3%A7%C3%A3o;Aprendendo+algo+novo+todo+dia+%E2%9C%A8" alt="Typing SVG" /> </div>
+<!-- Banner animado com texto digitando — troque as frases em "lines=" (separe com ;) --> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Guilherme+%F0%9F%91%8B;Estudante+de+programa%C3%A7%C3%A3o;Aprendendo+algo+novo+todo+dia+%E2%9C%A8" alt="Typing SVG" /> </div>
 🌙 Sobre mim
 
 Oi! Eu sou Guilherme Polaski, 21 Anos e se Formando em Análise e Desenvolvimento de Sistemas em Joinville 🇧🇷.
